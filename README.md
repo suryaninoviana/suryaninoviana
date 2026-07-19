@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-C:\Users\USER\suryaninoviana\github-header-banner.png
-![suryaninoviana](img/github-header-banner.png)
 
+![suryaninoviana](github-header-banner.png)
 
 - 🔭 I’m currently seeking **Junior Data Analyst / Junior Data Engineer** roles
 - 🌱 I’m a recent graduate of **Hacktiv8 Comprehensive Data Analytics Bootcamp CODA-RMT-018** 
@@ -24,15 +23,27 @@ C:\Users\USER\suryaninoviana\github-header-banner.png
 - 👯 I’m looking to collaborate on **Data Analytics Case Studies and ETL Projects**
 - 🤔 I’m looking for help with **Best practices in Data Engineering & Cloud Deployment**
 - 💬 Ask me about **Python, SQL, Excel, Tableau, ETL, and Data Warehousing**
-- 📫 How to reach me: **suryani.noviana11@gmail.com | LinkedIn: linkedin.com/in/suryaninoviana**
+- 📫 How to reach me: **suryani.noviana11@gmail.com**
 - 😄 Pronouns: **She/Her**
 
-![yana](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczMyczFvNzRjOGozaXVoN2ZzbDM1ODFmeDhiOWo5bGp3NnFlODVmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif)
+##### Skill
 
----
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 
-### 🛠️ Tech Stack
-`Python` `SQL` `PySpark` `Pandas` `Tableau` `PostgreSQL` `Apache Airflow` `Docker` `MongoDB` `Excel` `Git`
+##### Connect with me
+![https://www.linkedin.com/in/suryani-noviana](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 📊 Featured Projects
 1. **[Telemarketing Bank Campaign Analysis](link-github-kamu)**  
@@ -46,7 +57,12 @@ C:\Users\USER\suryaninoviana\github-header-banner.png
 
 ### 🎓 Certification
 **Hacktiv8 - Comprehensive Data Analytics Bootcamp CODA-RMT-018**  
-Issued July 2026 | Score: 86.95%
+Issued July 2026 
 
-### 📈 GitHub Stats
-[Suryani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryaninoviana&show_icons=true&theme=radical)
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryaninoviana/suryaninoviana/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryaninoviana/suryaninoviana/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suryaninoviana/suryaninoviana/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/suryaninoviana/suryaninoviana/snake-output/snake.svg" alt="Snake animation" />
