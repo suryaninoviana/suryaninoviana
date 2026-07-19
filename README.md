@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+C:\Users\USER\suryaninoviana\github-header-banner.png
+![suryaninoviana](img/github-header-banner.png)
+
 
 - 🔭 I’m currently seeking **Junior Data Analyst / Junior Data Engineer** roles
 - 🌱 I’m a recent graduate of **Hacktiv8 Comprehensive Data Analytics Bootcamp CODA-RMT-018** 
