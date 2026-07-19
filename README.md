@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Data Analytics Case Studies and ETL Projects**
 - 🤔 I’m looking for help with **Best practices in Data Engineering & Cloud Deployment**
 - 💬 Ask me about **Python, SQL, Excel, Tableau, ETL, and Data Warehousing**
-- 📫 How to reach me: **suryani.noviana 11@gmail.com | LinkedIn: linkedin.com/in/suryaninoviana**
+- 📫 How to reach me: **suryani.noviana11@gmail.com | LinkedIn: linkedin.com/in/suryaninoviana**
 - 😄 Pronouns: **She/Her**
 
+![yana](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczMyczFvNzRjOGozaXVoN2ZzbDM1ODFmeDhiOWo5bGp3NnFlODVmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif)
 
 ---
 
